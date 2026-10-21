@@ -20,4 +20,7 @@ A transport planner may ask the details for each stop or at least how can we acc
 Considering the issue that we can have from both extremes, I would say that a good rule might be to evaluate how close it was from it's time goal. So we could make it so in both directions (early or late) it becomes more red as it is far from it's time goal. That way, we favour a 'on time' approach.
 
 
+## Reflection 6
+Well, you don't need realtime when you work on static data and you certainly can't have a monthly approach when working with realtime data.
+
 
