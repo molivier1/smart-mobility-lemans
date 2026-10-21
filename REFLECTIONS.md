@@ -14,3 +14,10 @@ We could have a type error or perhaps unsollicited processing time. It may lead 
 For a 12 weeks semester, we could see in the order of 40M+ updated rows.
 As for the routes it would be around 322k+, which is WAY less.
 A transport planner may ask the details for each stop or at least how can we access them with the routes approach.
+
+
+## Reflection 5
+Considering the issue that we can have from both extremes, I would say that a good rule might be to evaluate how close it was from it's time goal. So we could make it so in both directions (early or late) it becomes more red as it is far from it's time goal. That way, we favour a 'on time' approach.
+
+
+
