@@ -1,5 +1,5 @@
 ## Reflection 1
-You told us not to reply to this one.
+You told us not to answer to this one.
 
 
 ## Reflection 2
@@ -30,3 +30,16 @@ It pretty much matched what I expected since it was indicated on SETRAM's websit
 
 ## Reflection 8
 If the commune is an industrial place, there would be a high demand in transport for the workers but few people actually lives close to factories and the likes of that.
+
+
+## Reflection 9
+The metric chosen is the number of stops per day per 1k persons.
+I can see the La-Chapelle-Saint-Aubin has a high score compared to Le Mans. I believe that is exactly because there are industrial areas.
+
+
+## Reflection 10
+Maybe instead of storing the update we could only keep a summary of the delays per stop so we get less entries but still have information.
+
+
+## Reflection 11
+You told us not to answer to the first question, so I can't answer to this one.
