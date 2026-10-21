@@ -24,3 +24,9 @@ Considering the issue that we can have from both extremes, I would say that a go
 Well, you don't need realtime when you work on static data and you certainly can't have a monthly approach when working with realtime data.
 
 
+## Reflection 7
+It pretty much matched what I expected since it was indicated on SETRAM's website that route 5 (the most late) has issues because of active construction work.
+
+
+## Reflection 8
+If the commune is an industrial place, there would be a high demand in transport for the workers but few people actually lives close to factories and the likes of that.
