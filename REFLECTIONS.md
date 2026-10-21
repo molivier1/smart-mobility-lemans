@@ -7,3 +7,5 @@ The static one can't run on a 15 minutes schedule because of the amount of data 
 
 
 
+## Reflection 3
+We could have a type error or perhaps unsollicited processing time. It may lead to the pipeline crashing.
