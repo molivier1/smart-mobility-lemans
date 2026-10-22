@@ -1,77 +1,37 @@
 {
-  "generated_at": "2026-10-22T19:24:31Z",
-  "network_avg_delay_s": -16.4,
-  "n_routes_reporting": 7,
+  "generated_at": "2026-10-22T22:37:06Z",
+  "network_avg_delay_s": -51.5,
+  "n_routes_reporting": 3,
   "routes": [
     {
-      "route_id": "5",
-      "n_trips_observed": 9,
-      "n_stop_updates": 238,
-      "n_skipped": 31,
-      "avg_delay_s": 39.4,
-      "max_delay_s": 187,
-      "snapshot_ts": 1792697071,
-      "route_name": "5"
-    },
-    {
-      "route_id": "7",
-      "n_trips_observed": 3,
-      "n_stop_updates": 72,
+      "route_id": "T3",
+      "n_trips_observed": 2,
+      "n_stop_updates": 28,
       "n_skipped": 0,
-      "avg_delay_s": 10.5,
-      "max_delay_s": 146,
-      "snapshot_ts": 1792697071,
-      "route_name": "7"
-    },
-    {
-      "route_id": "C4",
-      "n_trips_observed": 11,
-      "n_stop_updates": 319,
-      "n_skipped": 0,
-      "avg_delay_s": -3.3,
-      "max_delay_s": 183,
-      "snapshot_ts": 1792697071,
-      "route_name": "C4"
+      "avg_delay_s": -40.5,
+      "max_delay_s": 10,
+      "snapshot_ts": 1792708626,
+      "route_name": "T3"
     },
     {
       "route_id": "B2",
-      "n_trips_observed": 10,
-      "n_stop_updates": 160,
+      "n_trips_observed": 2,
+      "n_stop_updates": 32,
       "n_skipped": 0,
-      "avg_delay_s": -4.6,
-      "max_delay_s": 124,
-      "snapshot_ts": 1792697071,
+      "avg_delay_s": -41.0,
+      "max_delay_s": 90,
+      "snapshot_ts": 1792708626,
       "route_name": "B2"
     },
     {
       "route_id": "B1",
-      "n_trips_observed": 10,
-      "n_stop_updates": 190,
+      "n_trips_observed": 2,
+      "n_stop_updates": 38,
       "n_skipped": 0,
-      "avg_delay_s": -15.9,
-      "max_delay_s": 60,
-      "snapshot_ts": 1792697071,
+      "avg_delay_s": -72.9,
+      "max_delay_s": 73,
+      "snapshot_ts": 1792708626,
       "route_name": "B1"
-    },
-    {
-      "route_id": "T3",
-      "n_trips_observed": 13,
-      "n_stop_updates": 182,
-      "n_skipped": 0,
-      "avg_delay_s": -17.6,
-      "max_delay_s": 191,
-      "snapshot_ts": 1792697071,
-      "route_name": "T3"
-    },
-    {
-      "route_id": "22",
-      "n_trips_observed": 1,
-      "n_stop_updates": 23,
-      "n_skipped": 0,
-      "avg_delay_s": -123.4,
-      "max_delay_s": -21,
-      "snapshot_ts": 1792697071,
-      "route_name": "22"
     }
   ],
   "alerts": []
